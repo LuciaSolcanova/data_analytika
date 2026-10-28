@@ -9,7 +9,7 @@ Excel (Power Query, Power Pivot) · SQL · Python (pandas) · Power BI (DAX) · 
 | Složka | Obsah |
 | --- | --- |
 | `01_excel` | Cvičení z pokročilého Excelu |
-| `02_sql` | SQL dotazy na cvičné bankovní databázi |
+| `02_sql` | SQL dotazy nad cvičnou bankovní databází |
 | `03_python` | Analýzy v Pythonu a pandas |
 | `04_powerbi` | Datové modely a DAX míry |
 | `05_projekty` | Ucelené projekty |
