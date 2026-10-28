@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Citlivé údaje a dočasné soubory
+.env
+~$*
+*.tmp
+
+# Neveřejná data
+data/raw/
