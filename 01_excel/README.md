@@ -32,6 +32,16 @@ vhodné pro analýzu a ověřit správnost celkového součtu.
    strukturovaným odkazem `=SUM(tbl_Naklady[Castka])`.
 4. Výsledek jsem odsouhlasila na zdrojový report (viz kontrolní součet).
 
+### Před a po
+
+**Původní report z účetnictví:**
+
+![Původní report](img/report.png)
+
+**Čistá tabulka tbl_Naklady:**
+
+![Čistá tabulka](img/tbl_naklady.png)
+
 ## 3. Kontrolní součet
 
 | Zdroj | Částka (Kč) |
@@ -50,6 +60,8 @@ vhodné pro analýzu a ověřit správnost celkového součtu.
 
 **Kontrola po střediscích:** po vyfiltrování střediska IT ukazuje řádek souhrnů tabulky
 1 572 450 Kč, což odpovídá mezisoučtu IT v reportu (F9).
+
+![Kontrola střediska IT](img/tbl_naklady_it.png)
 
 ## 4. Co jsem se naučila
 
